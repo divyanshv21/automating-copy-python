@@ -1,7 +1,3 @@
-Of course! Here's a slightly expanded version of the content for your GitHub README file:
-
----
-
 # Automated File Copying with Python
 
 This project aims to simplify the task of file management and backup by automating the process of copying specific file extensions from a source folder to a destination folder using Python. It provides a convenient way to organize and archive files efficiently, allowing users to focus on their work without manual file handling.
@@ -30,8 +26,6 @@ We welcome contributions from the open-source community to enhance and expand th
 
 ## License
 
-This project is licensed under the [License Name], making it accessible for both personal and commercial use.
+This project is licensed under the [Divyansh Verma], making it accessible for both personal and commercial use.
 
 ---
-
-This expanded version provides a more detailed overview of your project's purpose, key features, and benefits, along with information on how to get started, use the tool, contribute, and the licensing terms.
